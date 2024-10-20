@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-pour faire fonctionner le PoC:
+Pour faire fonctionner le PoC:
 
 Il faut installer la librairies Adafruit BME680 Library par adafruit
 
@@ -10,8 +9,4 @@ il faut cabler sur la carte servant à l'envoi de donnée sur le Dashboard le ca
 Sur la carte de reception le ventilateur est cablé a la pin D4 sois la pin ext0
 
 pour se connecter au Dashboard sur adafruit io il faut se connecter avec le nom d'utilisateur matteo_brunet et le mdp matteo2712
-=======
-Bienvenue dans notre PoC intitulé Clim intelligente !
 
-Après avoir realisé le prototype, 
->>>>>>> 2541cdf666cc8bdb843aff6f5412f48bd8214ebd
