@@ -1,4 +1,6 @@
-**Pour faire fonctionner le PoC **
+#  Clim intélligente 
+
+**Pour faire fonctionner le PoC**
 
 - Il faut installer la librairies Adafruit BME680 Library par adafruit.
 
