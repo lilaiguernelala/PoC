@@ -113,4 +113,3 @@ void test_lecture_bme680()
   return;
   }
 }
-delay(1000);
